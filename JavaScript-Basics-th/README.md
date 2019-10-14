@@ -1,0 +1,1 @@
+Making a funny story telling game by using variable along with prompt, alert and document.write() methods.
