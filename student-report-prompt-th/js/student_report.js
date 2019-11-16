@@ -26,6 +26,7 @@ while (true) {
       message = getStudentReport( student );
       print(message);
     }
+    message = '<h2>Error: Name Not Found</h2>';
+    print(message);
   }
 }
-
